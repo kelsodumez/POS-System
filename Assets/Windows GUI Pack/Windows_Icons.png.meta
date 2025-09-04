@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -119,11 +119,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 3
-        y: 139
-        width: 9
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 136
+        width: 10
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -141,11 +141,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 19
-        y: 139
-        width: 9
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 136
+        width: 10
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +162,12 @@ TextureImporter:
       name: Windows_Icons_2
       rect:
         serializedVersion: 2
-        x: 36
-        y: 137
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 35
+        y: 136
+        width: 10
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -185,11 +185,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 51
-        y: 138
+        y: 136
         width: 10
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -207,11 +207,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 67
-        y: 138
+        y: 136
         width: 10
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -229,11 +229,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 83
-        y: 138
-        width: 26
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 136
+        width: 10
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -246,11 +246,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Windows_Icons_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 136
+        width: 10
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2e1274f9fe546f7beb84577440788a
+      internalID: 1088414445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c046df3566df7481489dabc3a2c6e21e
     internalID: 0
     vertices: []
     indices: 
@@ -266,6 +288,7 @@ TextureImporter:
       Windows_Icons_3: 2784325872354485142
       Windows_Icons_4: -8692709947429568350
       Windows_Icons_5: -3513562678931714041
+      Windows_Icons_6: 1088414445
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
